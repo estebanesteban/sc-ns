@@ -1,0 +1,83 @@
+/*-------------
+---------------
+FONTS
+---------------
+-------------*/
+
+@font-face {
+	font-family: ProximaNova;
+	src: url(../fonts/ProximaNova-Reg.otf);
+}
+
+@font-face {
+	font-family: ProximaNova;
+	src: url(../fonts/ProximaNova-Thin.otf);
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: ProximaNova;
+	src: url(../fonts/ProximaNova-Light.otf);
+	font-weight: 200;
+}
+
+@font-face {
+	font-family: ProximaNova;
+	src: url(../fonts/ProximaNova-Reg.otf);
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: ProximaNova;
+	src: url(../fonts/ProximaNova-Sbold.otf);
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: ProximaNova;
+	src: url(../fonts/ProximaNova-Bold.otf);
+	font-weight: 800;
+}
+
+@font-face {
+	font-family: ProximaNova;
+	src: url(../fonts/ProximaNova-Black.otf);
+	font-weight: 900;
+}
+
+
+
+
+/*-------------
+---------------
+FONTS
+---------------
+-------------*/
+
+body {
+	font-family: ProximaNova;
+}
+
+h1 {
+	font-size: 3.4em;
+	font-weight: 100;
+}
+
+
+#video-container {
+	background-color: #f5f5f5;
+	height: 80vh;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#video-container h1 span {
+	font-size: .6em;
+	font-weight: 600;
+}
+
+
+
+
